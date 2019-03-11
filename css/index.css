@@ -1,0 +1,14 @@
+.carousel-item {
+height:800px;
+width:800px;
+margin:auto;
+}
+.carousel-control-next {
+  color: black;
+}
+.carousel-control-prev{
+  color: black;
+}
+.carousel-indicators{
+  color: black;
+}
